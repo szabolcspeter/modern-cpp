@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FirstProgram", "BasicLangua
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Functions", "BasicLanguageFacilities\Functions\Functions.vcxproj", "{B97668BE-21E1-4600-961D-7C24B2C77AF3}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UniformInitialization", "BasicLanguageFacilities\UniformInitialization\UniformInitialization.vcxproj", "{925F76F2-8CCF-4F0C-AEF0-8B58E0C141CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -33,6 +35,14 @@ Global
 		{B97668BE-21E1-4600-961D-7C24B2C77AF3}.Release|x64.Build.0 = Release|x64
 		{B97668BE-21E1-4600-961D-7C24B2C77AF3}.Release|x86.ActiveCfg = Release|Win32
 		{B97668BE-21E1-4600-961D-7C24B2C77AF3}.Release|x86.Build.0 = Release|Win32
+		{925F76F2-8CCF-4F0C-AEF0-8B58E0C141CF}.Debug|x64.ActiveCfg = Debug|x64
+		{925F76F2-8CCF-4F0C-AEF0-8B58E0C141CF}.Debug|x64.Build.0 = Debug|x64
+		{925F76F2-8CCF-4F0C-AEF0-8B58E0C141CF}.Debug|x86.ActiveCfg = Debug|Win32
+		{925F76F2-8CCF-4F0C-AEF0-8B58E0C141CF}.Debug|x86.Build.0 = Debug|Win32
+		{925F76F2-8CCF-4F0C-AEF0-8B58E0C141CF}.Release|x64.ActiveCfg = Release|x64
+		{925F76F2-8CCF-4F0C-AEF0-8B58E0C141CF}.Release|x64.Build.0 = Release|x64
+		{925F76F2-8CCF-4F0C-AEF0-8B58E0C141CF}.Release|x86.ActiveCfg = Release|Win32
+		{925F76F2-8CCF-4F0C-AEF0-8B58E0C141CF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -40,6 +50,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{6414C241-01CC-4B1B-B655-21062B6CF899} = {F7CF79E9-EF25-4354-969E-0801742BE008}
 		{B97668BE-21E1-4600-961D-7C24B2C77AF3} = {F7CF79E9-EF25-4354-969E-0801742BE008}
+		{925F76F2-8CCF-4F0C-AEF0-8B58E0C141CF} = {F7CF79E9-EF25-4354-969E-0801742BE008}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D0FEB184-32B7-4D53-91C1-06AC4B610E20}
